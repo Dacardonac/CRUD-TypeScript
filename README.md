@@ -26,4 +26,5 @@ The objective of this exercise is to develop a CRUD (Create, Read, Update, Delet
 ## Authors
 
 - [@stevendev95](https://github.com/Stevendev95)
+- [@Dacardonac](https://github.com/Dacardonac)
 
