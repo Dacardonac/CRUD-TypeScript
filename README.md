@@ -26,7 +26,7 @@ The objective of this exercise is to develop a CRUD (Create, Read, Update, Delet
 ## Authors
 
 - [@stevendev95](https://github.com/Stevendev95) (Team Leader, provided the template)
-- [@Dacardonac](https://github.com/Dacardonac)
+- [@Dacardonac](https://github.com/Dacardonac) (Coder)
 
 > [!NOTE]
 > This is a Riwi project, be a Coder!
